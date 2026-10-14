@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Copyright-Content-Protection/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg?style=flat-square" alt="License"/></a>
   <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 # 🛡️ Awesome Copyright &amp; Content Protection
@@ -35,6 +36,8 @@ In modern digital distribution, protecting intellectual property requires automa
 - [💻 Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
 - [🏗️ Building a Custom Content Protection Stack](#️-building-a-custom-content-protection-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#--star-history)
 - [⚖️ Disclaimer &amp; Legal Context](#️-disclaimer--legal-context)
 
 ---
@@ -179,6 +182,23 @@ We welcome community contributions, additional tool submissions, and updated pri
    - For SaaS: Include accurate Company Size, specific starting tier price, and specific free tier / trial limits.
    - For Open-Source: Include the repo link, exact star badge with `style=social&color=white` linking to the stargazers page, technology stack, and description, sorted properly by star count.
 4. 🚀 Submit a Pull Request with a brief explanation and links to official documentation.
+
+---
+
+## 💖 Support
+
+Thank you for exploring the **Awesome Copyright &amp; Content Protection** repository! 
+
+If you find this curated collection and ecosystem guide valuable:
+- ⭐ **Star this repository** on GitHub to show your appreciation and help others discover it.
+- 🍴 **Fork the repo** and submit pull requests to keep the community database updated.
+- 📢 **Share** with developers, media engineers, and digital rights managers.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support ongoing research and maintenance, feel free to sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Copyright-Content-Protection&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Copyright-Content-Protection&type=date&legend=top-left)
 
 ---
 

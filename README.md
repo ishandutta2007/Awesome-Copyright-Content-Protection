@@ -70,79 +70,79 @@ The table below lists category-leading commercial platforms for copyright cleari
 
 ## 💻 Open-Source GitHub Projects (Ranked by Stars)
 
-The following open-source repositories provide foundational algorithms, acoustic fingerprinting pipelines, software license auditing, and audio watermarking frameworks. **Sorted descending by GitHub star count.**
+The following open-source repositories provide foundational algorithms, acoustic fingerprinting pipelines, software license auditing, and audio watermarking frameworks. **Sorted descending by GitHub Stars_Count.**
 
-1. ### 🌟 [AudioCraft](https://github.com/facebookresearch/audiocraft) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social&color=white)](https://github.com/facebookresearch/audiocraft/stargazers)
+1. ### 🌟 [AudioCraft](https://github.com/facebookresearch/audiocraft) [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social&color=white)](https://github.com/facebookresearch/audiocraft/stargazers)
    - **Focus:** Generative Audio, Neural Compression &amp; Watermarking
    - **Stack:** Python, PyTorch
    - **Description:** Developed by Meta Research, AudioCraft provides cutting-edge deep learning models for audio processing, compression (EnCodec), and audio generation (MusicGen). Features foundational neural architectures for acoustic feature analysis, conditioning, and audio watermarking research.
 
-2. ### 🎵 [Beets](https://github.com/beetbox/beets) [![GitHub stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers)
+2. ### 🎵 [Beets](https://github.com/beetbox/beets) [![GitHub_Stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers)
    - **Focus:** Music Metadata Management &amp; AcoustID Fingerprint Tagging
    - **Stack:** Python
    - **Description:** The definitive music library management system. Integrates directly with MusicBrainz and the AcoustID fingerprinting database (`chromaprint`) to automatically identify, catalog, and verify rights and track metadata across massive music collections.
 
-3. ### 🎧 [Dejavu](https://github.com/worldveil/dejavu) [![GitHub stars](https://img.shields.io/github/stars/worldveil/dejavu?style=social&color=white)](https://github.com/worldveil/dejavu/stargazers)
+3. ### 🎧 [Dejavu](https://github.com/worldveil/dejavu) [![GitHub_Stars](https://img.shields.io/github/stars/worldveil/dejavu?style=social&color=white)](https://github.com/worldveil/dejavu/stargazers)
    - **Focus:** Audio Fingerprinting &amp; Recognition Engine
    - **Stack:** Python, MySQL / PostgreSQL
    - **Description:** An open-source audio fingerprinting and recognition system modeled after Shazam's landmark peak-matching algorithm. Converts audio into spectrograms, extracts constellation frequency peaks, and performs sub-second matching against large audio databases.
 
-4. ### 🖼️ [imagededup](https://github.com/idealo/imagededup) [![GitHub stars](https://img.shields.io/github/stars/idealo/imagededup?style=social&color=white)](https://github.com/idealo/imagededup/stargazers)
+4. ### 🖼️ [imagededup](https://github.com/idealo/imagededup) [![GitHub_Stars](https://img.shields.io/github/stars/idealo/imagededup?style=social&color=white)](https://github.com/idealo/imagededup/stargazers)
    - **Focus:** Perceptual Hashing &amp; Visual Copyright Duplicate Detection
    - **Stack:** Python, TensorFlow / Keras
    - **Description:** High-accuracy duplicate and near-duplicate image detection toolkit using perceptual hashing (pHash, dHash, aHash, wHash) and convolutional neural networks (CNNs). Essential for detecting unauthorized image modifications, resizing, cropping, and copyright theft.
 
-5. ### 🔍 [ScanCode Toolkit](https://github.com/aboutcode-org/scancode-toolkit) [![GitHub stars](https://img.shields.io/github/stars/aboutcode-org/scancode-toolkit?style=social&color=white)](https://github.com/aboutcode-org/scancode-toolkit/stargazers)
+5. ### 🔍 [ScanCode Toolkit](https://github.com/aboutcode-org/scancode-toolkit) [![GitHub_Stars](https://img.shields.io/github/stars/aboutcode-org/scancode-toolkit?style=social&color=white)](https://github.com/aboutcode-org/scancode-toolkit/stargazers)
    - **Focus:** Software Composition Analysis (SCA) &amp; License Compliance
    - **Stack:** Python, C
    - **Description:** Industry-standard scanner for detecting licenses, copyright statements, provenance, and third-party dependencies in source code. Used by major organizations (Google, Amazon, Eclipse Foundation, Linux Kernel) with SPDX and CycloneDX output support.
 
-6. ### 🕵️ [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) [![GitHub stars](https://img.shields.io/github/stars/ShieldMnt/invisible-watermark?style=social&color=white)](https://github.com/ShieldMnt/invisible-watermark/stargazers)
+6. ### 🕵️ [invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) [![GitHub_Stars](https://img.shields.io/github/stars/ShieldMnt/invisible-watermark?style=social&color=white)](https://github.com/ShieldMnt/invisible-watermark/stargazers)
    - **Focus:** Blind Invisible Digital Image Watermarking
    - **Stack:** Python, OpenCV, PyTorch
    - **Description:** High-performance invisible watermarking library designed to embed and decode imperceptible digital signatures in images. Resistant to cropping, brightness changes, compression, and filtering; utilized in flagship generative AI models like Stable Diffusion for provenance.
 
-7. ### 🧬 [Chromaprint](https://github.com/acoustid/chromaprint) [![GitHub stars](https://img.shields.io/github/stars/acoustid/chromaprint?style=social&color=white)](https://github.com/acoustid/chromaprint/stargazers)
+7. ### 🧬 [Chromaprint](https://github.com/acoustid/chromaprint) [![GitHub_Stars](https://img.shields.io/github/stars/acoustid/chromaprint?style=social&color=white)](https://github.com/acoustid/chromaprint/stargazers)
    - **Focus:** Acoustic Audio Fingerprinting C Library
    - **Stack:** C, C++
    - **Description:** The core audio fingerprinting library behind AcoustID. Converts raw audio into robust, compact 32-bit fingerprints that survive audio degradation, re-encoding, and bit-rate shifts. Powers music identification across media players and broadcasting monitors globally.
 
-8. ### 🔊 [SoundFingerprinting](https://github.com/AddictedCS/soundfingerprinting) [![GitHub stars](https://img.shields.io/github/stars/AddictedCS/soundfingerprinting?style=social&color=white)](https://github.com/AddictedCS/soundfingerprinting/stargazers)
+8. ### 🔊 [SoundFingerprinting](https://github.com/AddictedCS/soundfingerprinting) [![GitHub_Stars](https://img.shields.io/github/stars/AddictedCS/soundfingerprinting?style=social&color=white)](https://github.com/AddictedCS/soundfingerprinting/stargazers)
    - **Focus:** Acoustic Fingerprinting &amp; Broadcaster Monitoring
    - **Stack:** C# / .NET
    - **Description:** Efficient, production-ready audio and video fingerprinting algorithm implemented purely in C#. Capable of real-time broadcast monitoring, sub-fingerprint indexing, and scalable duplicate detection with relational and NoSQL storage backends.
 
-9. ### ⚖️ [FOSSology](https://github.com/fossology/fossology) [![GitHub stars](https://img.shields.io/github/stars/fossology/fossology?style=social&color=white)](https://github.com/fossology/fossology/stargazers)
+9. ### ⚖️ [FOSSology](https://github.com/fossology/fossology) [![GitHub_Stars](https://img.shields.io/github/stars/fossology/fossology?style=social&color=white)](https://github.com/fossology/fossology/stargazers)
    - **Focus:** Enterprise License &amp; Copyright Compliance System
    - **Stack:** C, PHP, PostgreSQL
    - **Description:** A comprehensive open-source license compliance system developed by the Linux Foundation community. Includes multi-engine scanners (Nomos, Monk, Ojo), license phrase clearing workflows, copyright statement extraction, and automated copyright declaration reports.
 
-10. ### 🦭 [AudioSeal](https://github.com/facebookresearch/audioseal) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audioseal?style=social&color=white)](https://github.com/facebookresearch/audioseal/stargazers)
+10. ### 🦭 [AudioSeal](https://github.com/facebookresearch/audioseal) [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/audioseal?style=social&color=white)](https://github.com/facebookresearch/audioseal/stargazers)
     - **Focus:** Localized Watermarking for AI-Generated Audio
     - **Stack:** Python, PyTorch
     - **Description:** Cutting-edge localized audio watermarking developed by Meta AI. Enables sample-accurate temporal localization of generated voice or music, allowing platforms to detect exact segments where AI synthesis was spliced into recorded material with sub-second latency.
 
-11. ### 📍 [audfprint](https://github.com/dpwe/audfprint) [![GitHub stars](https://img.shields.io/github/stars/dpwe/audfprint?style=social&color=white)](https://github.com/dpwe/audfprint/stargazers)
+11. ### 📍 [audfprint](https://github.com/dpwe/audfprint) [![GitHub_Stars](https://img.shields.io/github/stars/dpwe/audfprint?style=social&color=white)](https://github.com/dpwe/audfprint/stargazers)
     - **Focus:** Landmark Audio Fingerprinting &amp; Matcher
     - **Stack:** Python
     - **Description:** Developed by audio research pioneer Dan Ellis, `audfprint` implements a classic landmark-based acoustic fingerprinting algorithm. Designed for rapid database indexing and accurate matching in noisy, broadcast, or degraded conditions.
 
-12. ### 🛡️ [WavMark](https://github.com/wavmark/wavmark) [![GitHub stars](https://img.shields.io/github/stars/wavmark/wavmark?style=social&color=white)](https://github.com/wavmark/wavmark/stargazers)
+12. ### 🛡️ [WavMark](https://github.com/wavmark/wavmark) [![GitHub_Stars](https://img.shields.io/github/stars/wavmark/wavmark?style=social&color=white)](https://github.com/wavmark/wavmark/stargazers)
     - **Focus:** Deep Learning Audio Watermarking Tool
     - **Stack:** Python, PyTorch
     - **Description:** High-capacity imperceptible audio watermarking tool that embeds up to 32 bits of metadata into 1-second audio clips. Retains high bit recovery accuracy even through aggressive lossy MP3 compression, reverb, and pitch alteration.
 
-13. ### 📊 [ScanCode Workbench](https://github.com/aboutcode-org/scancode-workbench) [![GitHub stars](https://img.shields.io/github/stars/aboutcode-org/scancode-workbench?style=social&color=white)](https://github.com/aboutcode-org/scancode-workbench/stargazers)
+13. ### 📊 [ScanCode Workbench](https://github.com/aboutcode-org/scancode-workbench) [![GitHub_Stars](https://img.shields.io/github/stars/aboutcode-org/scancode-workbench?style=social&color=white)](https://github.com/aboutcode-org/scancode-workbench/stargazers)
     - **Focus:** Visual Software License Audit &amp; Triage GUI
     - **Stack:** JavaScript, Electron
     - **Description:** Desktop GUI application for viewing, triaging, and concluding code audit scans produced by ScanCode Toolkit. Provides hierarchical file exploration, license distribution dashboards, and audit sign-off workflows.
 
-14. ### 🎼 [django-music-publisher](https://github.com/matijakolaric-com/django-music-publisher) [![GitHub stars](https://img.shields.io/github/stars/matijakolaric-com/django-music-publisher?style=social&color=white)](https://github.com/matijakolaric-com/django-music-publisher/stargazers)
+14. ### 🎼 [django-music-publisher](https://github.com/matijakolaric-com/django-music-publisher) [![GitHub_Stars](https://img.shields.io/github/stars/matijakolaric-com/django-music-publisher?style=social&color=white)](https://github.com/matijakolaric-com/django-music-publisher/stargazers)
     - **Focus:** Music Rights Management &amp; Royalty Registration
     - **Stack:** Python, Django
     - **Description:** The most mature open-source software for managing music metadata, registering musical works via Common Works Registration (CWR), generating royalty statements, and tracking publisher splits.
 
-15. ### 🔬 [musiclab](https://github.com/drgolem/musiclab) [![GitHub stars](https://img.shields.io/github/stars/drgolem/musiclab?style=social&color=white)](https://github.com/drgolem/musiclab/stargazers)
+15. ### 🔬 [musiclab](https://github.com/drgolem/musiclab) [![GitHub_Stars](https://img.shields.io/github/stars/drgolem/musiclab?style=social&color=white)](https://github.com/drgolem/musiclab/stargazers)
     - **Focus:** Audio Analysis &amp; Chromaprint Fingerprinting in Go
     - **Stack:** Go (Golang)
     - **Description:** Audio analysis toolkit providing native Chromaprint generation, AcoustID fingerprint querying, spectral hash databases for sample matching, FFT analysis, and spectrogram visualizations.
@@ -180,7 +180,7 @@ We welcome community contributions, additional tool submissions, and updated pri
 2. 🌿 Create a feature branch: `git checkout -b add-tool-name`
 3. 📝 Add your entry under either **SaaS &amp; Hosted Platforms** or **Open-Source GitHub Projects** following the established format:
    - For SaaS: Include accurate Company Size, specific starting tier price, and specific free tier / trial limits.
-   - For Open-Source: Include the repo link, exact star badge with `style=social&color=white` linking to the stargazers page, technology stack, and description, sorted properly by star count.
+   - For Open-Source: Include the repo link, exact Stars_Badge with `style=social&color=white` linking to the stargazers page, technology stack, and description, sorted properly by Stars_Count.
 4. 🚀 Submit a Pull Request with a brief explanation and links to official documentation.
 
 ---
